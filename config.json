@@ -1,0 +1,146 @@
+{
+  "5": {
+    "YOUTUBE_API": "AIzaSyBLW0NWAvIAzf9lrpx7gv9lhDjDArMBUx8",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "allowInbox": true,
+  "selfListen": true,
+  "autoClean": true,
+  "REFRESHING": "on",
+  "commandDisabled": [
+    "hi.js",
+    "hi.js",
+    "rankup.js",
+    "pp.js",
+    "pp.js",
+    "resend.js",
+    "resend.js",
+    "resendd.js",
+    "resend.js",
+    "resend.js",
+    "rankup.js",
+    "rankup.js"
+  ],
+  "eventDisabled": [],
+  "EMAIL": "dvq.dgfb@hotmail.com",
+  "PASSWORD": "Quan16cm",
+  "OTPKEY": "XXJH 3FVQ OAKY 7WLF C7WL TSNK TLMY OSIQ",
+  "BOTNAME": "Asuna",
+  "PREFIX": "/",
+  "ADMINBOT": [
+    "1060093378",
+    "100049606202185",
+    "100037685874359",
+    "100064065644851",
+    "100015201181895",
+    "100074235227082"
+  ],
+  "DATABASE": {
+    "sqlite": {
+      "storage": "data.sqlite"
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "pauseLog": true,
+    "logLevel": "error",
+    "selfListen": true
+  },
+  "caesar": {
+    "caeserPassword": "266303"
+  },
+  "checktt": {
+    "maxColumn": 10
+  },
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 200
+  },
+  "gif": {
+    "TENOR": "73YIAOY3ACT1"
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "rankup": {
+    "unsendMessageAfter": 5
+  },
+  "rname": {
+    "APIKEY": "mi451266190"
+  },
+  "sauce": {
+    "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+  },
+  "shortlink": {
+    "bitlyAPI": ""
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyBLW0NWAvIAzf9lrpx7gv9lhDjDArMBUx8",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "weather": {
+    "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "log": {
+    "enable": true
+  },
+  "lyric2": {
+    "YOUTUBE_API": "AIzaSyAoRKGq6kkrDl1-Y97C10l8qz3TBarMV44",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "lyric": {
+    "YOUTUBE_API": "AIzaSyAoRKGq6kkrDl1-Y97C10l8qz3TBarMV44",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "sim": {
+    "APIKEY": "TEST2208"
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "update": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "undefined": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyCXtsOpIMInU5TOWkz0b2xjqwbx0aLUKJw",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "leave": {
+    "status": false,
+    "number": 0
+  },
+  "data": {
+    "enable": true,
+    "TIDCollect": [
+      "4493879907305255"
+    ],
+    "TIDSend": [
+      "5891229931002894"
+    ],
+    "type": "photo"
+  },
+  "ghép": {
+    "cooldownTime": 300000
+  }
+}
