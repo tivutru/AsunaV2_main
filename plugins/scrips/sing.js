@@ -45,7 +45,7 @@ module.exports.handleReply = async function ({ api, event, handleReply }) {
     if (fs.statSync(path).size > 26214400) return api.sendMessage('Kích thước tập tin vượt quá giới hạn. Vui lòng tải lại với dung lượng nhỏ hơn!', event.threadID, () => fs.unlinkSync(path), event.messageID);
     api.unsendMessage(handleReply.messageID)
     return api.sendMessage({
-      body: `== [ Âm nhạc ] ==\n`,
+      body: `=[📀𝙼𝚄𝚂𝙸𝙲 ASUNA📀]=\n`,
       attachment: fs.createReadStream(path)
     }, event.threadID, () => fs.unlinkSync(path), event.messageID)
   } catch (e) {
